@@ -6,7 +6,7 @@
 
     <name>ProjectFentimon</name>
     <description><![CDATA[SuperPOM des ProjectFentimon Projekts]]></description>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <groupId>net.scrayos.projectfentimon</groupId>
     <artifactId>parent</artifactId>
     <packaging>pom</packaging>
