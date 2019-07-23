@@ -1,4 +1,4 @@
-package net.scrayos.project_fentimon.lava_stabilization;
+package net.scrayos.projectfentimon.lavastabilization;
 
 import com.projectkorra.projectkorra.ability.AddonAbility;
 import com.projectkorra.projectkorra.ability.EarthAbility;
